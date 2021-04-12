@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.easefun.polyv:polyvWidget:1.4.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/81df80ebb76a78de7bd87b5ae6f34f5f/jetified-polyvWidget-1.4.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/81df80ebb76a78de7bd87b5ae6f34f5f/jetified-polyvWidget-1.4.5/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.easefun.polyv/polyvWidget/1.4.5/8b277401d9da581eb9434255e176113b5b654304/polyvWidget-1.4.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.easefun.polyv/polyvWidget/1.4.5/1ce7ec9808e95d182bb49ee6bdf4e33849788ccb/polyvWidget-1.4.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

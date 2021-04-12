@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: cn.jiguang.sdk.plugin:vivo:3.9.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f47af16e7e45df889a996916acc77be6/vivo-3.9.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f47af16e7e45df889a996916acc77be6/vivo-3.9.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f47af16e7e45df889a996916acc77be6/vivo-3.9.0/jars/libs/push_sdk_v2.9.0.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f47af16e7e45df889a996916acc77be6/vivo-3.9.0/jars/libs/jpush-android-plugin-vivo-v3.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.jiguang.sdk.plugin/vivo/3.9.0/149ba63857c614c6dd4974379787ac022a5c3493/vivo-3.9.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.jiguang.sdk.plugin/vivo/3.9.0/149ba63857c614c6dd4974379787ac022a5c3493/vivo-3.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$USER_HOME$/Documents/FlutterSDK/flutter/.pub-cache/git/polyvPlug-fbe923db1abc5133fa02a4e1aaa091c925228505/android" />
+            <option value="$USER_HOME$/Documents/FlutterSDK/flutter/.pub-cache/hosted/pub.flutter-io.cn/device_info-1.0.0/android" />
+            <option value="$USER_HOME$/Documents/FlutterSDK/flutter/.pub-cache/hosted/pub.flutter-io.cn/jpush_flutter-0.6.3/android" />
+            <option value="$USER_HOME$/Documents/FlutterSDK/flutter/.pub-cache/hosted/pub.flutter-io.cn/package_info-0.4.3+4/android" />
+            <option value="$USER_HOME$/Documents/FlutterSDK/flutter/.pub-cache/hosted/pub.flutter-io.cn/path_provider-1.6.28/android" />
+            <option value="$USER_HOME$/Documents/FlutterSDK/flutter/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences-0.5.12+4/android" />
+            <option value="$USER_HOME$/Documents/FlutterSDK/flutter/.pub-cache/hosted/pub.flutter-io.cn/video_player-1.0.1/android" />
+            <option value="$USER_HOME$/Documents/FlutterSDK/flutter/.pub-cache/hosted/pub.flutter-io.cn/wakelock-0.2.1+1/android" />
+            <option value="$USER_HOME$/Documents/FlutterSDK/flutter/.pub-cache/hosted/pub.flutter-io.cn/webview_flutter-1.0.7/android" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

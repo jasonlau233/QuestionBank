@@ -1,0 +1,66 @@
+Flutter crash report.
+Please report a bug at https://github.com/flutter/flutter/issues.
+
+## command
+
+flutter --no-color attach --machine --device-id=5039ab45 lib/main_dev.dart
+
+## exception
+
+StateError: Bad state: No element
+
+```
+#0      ListMixin.firstWhere (dart:collection/list.dart:167:5)
+#1      DartDevelopmentService.startDartDevelopmentService (package:flutter_tools/src/base/dds.dart:63:32)
+<asynchronous suspension>
+#2      FlutterDevice.connect.<anonymous closure> (package:flutter_tools/src/resident_runner.dart:249:11)
+<asynchronous suspension>
+```
+
+## flutter doctor
+
+```
+[✓] Flutter (Channel master, 1.26.0-1.0.pre, on Mac OS X 10.15.7 19H2 darwin-x64, locale zh-Hans-CN)
+    • Flutter version 1.26.0-1.0.pre at /Users/gaolei/Documents/FlutterSDK/flutter
+    • Framework revision 63062a6443 (6 weeks ago), 2020-12-13 23:19:13 +0800
+    • Engine revision 4797b06652
+    • Dart version 2.12.0 (build 2.12.0-141.0.dev)
+    • Pub download mirror https://pub.flutter-io.cn
+    • Flutter download mirror https://storage.flutter-io.cn
+
+[✓] Android toolchain - develop for Android devices (Android SDK version 30.0.2)
+    • Android SDK at /Users/gaolei/Library/Android/sdk
+    • Platform android-30, build-tools 30.0.2
+    • Java binary at: /Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/bin/java
+    • Java version OpenJDK Runtime Environment (build 1.8.0_242-release-1644-b3-6222593)
+    • All Android licenses accepted.
+
+[!] Xcode - develop for iOS and macOS (Xcode 12.3)
+    • Xcode at /Applications/Xcode.app/Contents/Developer
+    • Xcode 12.3, Build version 12C33
+    ! CocoaPods 1.8.0 out of date (1.9.0 is recommended).
+        CocoaPods is used to retrieve the iOS and macOS platform side's plugin code that responds to your plugin usage on the Dart side.
+        Without CocoaPods, plugins will not work on iOS or macOS.
+        For more info, see https://flutter.dev/platform-plugins
+      To upgrade see https://guides.cocoapods.org/using/getting-started.html#installation for instructions.
+
+[✓] Chrome - develop for the web
+    • Chrome at /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+
+[✓] Android Studio (version 4.0)
+    • Android Studio at /Applications/Android Studio.app/Contents
+    • Flutter plugin version 45.1.2
+    • Dart plugin version 193.7361
+    • Java version OpenJDK Runtime Environment (build 1.8.0_242-release-1644-b3-6222593)
+
+[✓] VS Code (version 1.52.1)
+    • VS Code at /Applications/Visual Studio Code.app/Contents
+    • Flutter extension version 3.18.1
+
+[✓] Connected device (3 available)
+    • V1824A (mobile)    • 5039ab45                             • android-arm64  • Android 10 (API 29)
+    • iPhone 12 (mobile) • 91D7C0F5-0781-4854-9C13-6264C8C9DE99 • ios            • com.apple.CoreSimulator.SimRuntime.iOS-14-3 (simulator)
+    • Chrome (web)       • chrome                               • web-javascript • Google Chrome 87.0.4280.141
+
+! Doctor found issues in 1 category.
+```

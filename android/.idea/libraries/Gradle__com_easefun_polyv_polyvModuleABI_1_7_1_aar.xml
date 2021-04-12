@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.easefun.polyv:polyvModuleABI:1.7.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7859e5772844acde05fd0f17af93897e/polyvModuleABI-1.7.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7859e5772844acde05fd0f17af93897e/polyvModuleABI-1.7.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

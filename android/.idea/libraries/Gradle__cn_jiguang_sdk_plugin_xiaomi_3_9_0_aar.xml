@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: cn.jiguang.sdk.plugin:xiaomi:3.9.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/581e26c6ea07d11c52d4e653e368237d/xiaomi-3.9.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/581e26c6ea07d11c52d4e653e368237d/xiaomi-3.9.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/581e26c6ea07d11c52d4e653e368237d/xiaomi-3.9.0/jars/libs/jpush-android-plugin-xiaomi-v3.9.0.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/581e26c6ea07d11c52d4e653e368237d/xiaomi-3.9.0/jars/libs/MiPush_SDK_Client_3_8_5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.jiguang.sdk.plugin/xiaomi/3.9.0/7771fa3479d89b0240575052a42dba8ba31d73fa/xiaomi-3.9.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.jiguang.sdk.plugin/xiaomi/3.9.0/7771fa3479d89b0240575052a42dba8ba31d73fa/xiaomi-3.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

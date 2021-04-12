@@ -1,0 +1,4 @@
+class BuildConfig {
+  static const bool debug = false;
+  static const String appName = "题库学霸";
+}
